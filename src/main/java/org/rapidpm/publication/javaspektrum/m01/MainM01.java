@@ -12,6 +12,6 @@ public class MainM01 implements HasLogger {
     //critical things
     inputComponent.doSomethingLayoutSpecific();
     inputComponent.horizontalSpecific();
-    inputComponent.doSomethingLayoutSpecific();
+    inputComponent.doFrameworkSpecificThings();
   }
 }
